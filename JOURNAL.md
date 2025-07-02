@@ -15,5 +15,8 @@ Build should be mostly 3D Printed with off-the-shelf metal parts where possible 
 Current plan is to have a bed above and controls for all 3 axes on the bottom. This will greatly reduce the strain on lifting the Z-axis.
 <details>
 <summary>Some dirty sketches</summary>
-![sketches](https://github.com/user-attachments/assets/f0d8a6d2-4d33-4707-bb0d-cfabd03c1b9d)
+
+  ![sketches](https://github.com/user-attachments/assets/f0d8a6d2-4d33-4707-bb0d-cfabd03c1b9d)
+
 </details>
+
