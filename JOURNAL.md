@@ -4,7 +4,7 @@
 # honey's journey
 
 
-## Day 1 - Sketches and Research (2 hours)
+## 7/2/2025 - Sketches and Research (2 hours)
 
 Lots of research. Started by looking at X printer V2 design gallery, and reading build logs. Took a look at X printer and Lemontron's CAD models. Started sketching out ideas. 
 
