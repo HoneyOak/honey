@@ -20,3 +20,12 @@ Current plan is to have a bed above and controls for all 3 axes on the bottom. T
 
 </details>
 
+## 7/5/2025 - Preliminary progress (1.5 hours)
+
+Did more research figuring out parts to use, and sketching design. Started the CAD project with the bed:
+
+![image](https://github.com/user-attachments/assets/41df9797-51ee-4212-a5db-01835a3c9b56)
+
+I now have a rough idea of how all the parts in this printer are going to come together.
+
+
