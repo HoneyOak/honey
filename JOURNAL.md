@@ -1,10 +1,15 @@
-~ made by Divyam 
+---
+title: honey
+author: Divyam
+description: Foldable rep-rap 3D printer
+created_at: 2025-07-02
+---
 
 ~ [hack club highway](highway.hackclub.com)
 # honey's journey
 
 
-## 7/2/2025 - Sketches and Research (2 hours)
+## 2025-07-02 - Sketches and Research (2 hours)
 
 Lots of research. Started by looking at X printer V2 design gallery, and reading build logs. Took a look at X printer and Lemontron's CAD models. Started sketching out ideas. 
 
@@ -20,7 +25,7 @@ Current plan is to have a bed above and controls for all 3 axes on the bottom. T
 
 </details>
 
-## 7/5/2025 - Preliminary progress (1.5 hours)
+## 2025-07-05 - Preliminary progress (1.5 hours)
 
 Did more research figuring out parts to use, and sketching design. Started the CAD project with the bed:
 
