@@ -47,4 +47,13 @@ Mostly organization today. Dialed in all the connectors in my main onshape assem
 
 ![Screenshot 2025-07-07 214619](https://github.com/user-attachments/assets/92c0b52b-61f7-4412-8878-0c659f8a9fe7)
 
+## 2025-07-07 - Coming Together! (4.5 hours)
+
+It's finally looking like a comlete printer! Added slots for the steppers, power supply, and motherboard. Also added cutouts for wires. Kept it slim referring to Lemontron's chassis design!
+
+![onshape](https://github.com/user-attachments/assets/bedb217a-c833-4e0c-9f5d-fb57b87eb733)
+
+few things are left to do. need an upper case for the bottom chasis, and once that gets going I'll be almost done. 
+
+
 
