@@ -1,6 +1,6 @@
 # honey printer
 
-A foldable printer inspired by [X Printer](https://hackaday.io/project/180369-x-printer-v2). honey is a reprap printer that employs an upside-down bed design. 
+A foldable printer inspired by [X Printer](https://hackaday.io/project/180369-x-printer-v2). honey is a foldable reprap printer that employs an upside-down bed design. Designed for efficiency and portability, without trade-offs.
 
 <img width="724" height="574" alt="Screenshot 2025-07-10 233107" src="https://github.com/user-attachments/assets/56b8125a-d070-4b09-a6eb-c970b0ecba2f" />
 
