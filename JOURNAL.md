@@ -6,6 +6,9 @@ created_at: 2025-07-02
 ---
 
 ~ [hack club highway](highway.hackclub.com)
+
+#### Total time spent so far: ~32 hours
+
 # honey's journey
 
 
