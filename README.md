@@ -23,7 +23,7 @@ A foldable printer inspired by [X Printer](https://hackaday.io/project/180369-x-
 
 [Lemontron](https://lemontron.com/) - Main Chassis Assembly inspiration and XY Motion
 
-[X Printer]([url](https://github.com/alpha3141/X_printer_v2/tree/main)) - Original Inspiration and Design
+[X Printer](https://github.com/alpha3141/X_printer_v2/tree/main) - Original Inspiration and Design
 
 [3Demo](https://www.youtube.com/watch?v=nRvL-KlX-9w)- Scissor Lift Motion mods from the original
 
