@@ -59,3 +59,10 @@ few things are left to do. need an upper case for the bottom chasis, and once th
 Lots of small changes. Did the extruder and mid plates. Fixed screw holes. Decided on a belt structure inspired from lemontron, and added pulleys and tensioners for them. Toolhead next!
 
 ![ONshape 2](https://github.com/user-attachments/assets/6d8b1082-b47f-4c09-a127-f34dcce4cc42)
+
+## 2025-07-09 - DESIGN IS READY (9 hours)
+Very productive today. Added the X-axis. Fixed screw wholes, added the upper plate of the chassis. Added fillets and cleaned up the looks of the printer. I'm really happy with it. Also, built the toolhead. I don't have access to a custom CNC, however the toolhead needd to be as flat as possible to avoid lost Z build volume. Improvised by using the Ender 3 S1 hotend and it should turn out fine. In the future I could buy Positron's hotend.
+
+So much progress today! I will keep making small improvements as it goes along, of course. 
+
+<img width="724" height="574" alt="Screenshot 2025-07-10 233107" src="https://github.com/user-attachments/assets/cbc2ce15-df89-445a-9fa0-96953cb2b513" />
