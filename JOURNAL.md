@@ -35,7 +35,7 @@ I now have a rough idea of how all the parts in this printer are going to come t
 
 ## 2025-07-06 - CAD day (8.5 hours)
 
-Grinded out the CAD for the scissor lift machanism this Sunday. Looking like it will work so far. Yet to add the stepper motor and belts. 
+Grinded out the CAD for the scissor lift mechanism this Sunday. Looking like it will work so far. Yet to add the stepper motor and belts. 
 
 ![Screenshot 2025-07-06 213459](https://github.com/user-attachments/assets/ec4c89ae-456c-449b-90ae-17d6f2eef995)
 
