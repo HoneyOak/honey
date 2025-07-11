@@ -11,7 +11,7 @@ A foldable printer inspired by [X Printer](https://hackaday.io/project/180369-x-
 Note: There are no belts in the design files. Onshape's default belt feature doesn't support the complex routing in this project. For reference, the X-Y axis belts are exactly like the positron, and the Z-axis has a 90-degree belt twist to reach the 2 pulleys on the lead screws.
 
 # Why this project?
-Okay, maybe a [Positron](https://www.positron3d.com/) is just a better foldable printer. But the scissor lift idea is so cool, it doesn't require removing the bed unlike the positron. It looks amazing. Did I mention how cool it looks? Besides, I wanted a 3D printer so I can pack it in a suitcase if I wanted to. I hate how most 3D Printers are twice or thrice in size relative to their build volume. Ialso incorporated a slightly bigger bed than the Positron so it's even more versatile.
+Okay, maybe a [Positron](https://www.positron3d.com/) is just a better foldable printer. But the scissor lift idea is so cool, it doesn't require removing the bed unlike the positron. It looks amazing. Did I mention how cool it looks? Besides, I wanted a 3D printer that I can pack in a suitcase if I wanted to. I hate how most 3D Printers are twice or thrice in size relative to their build volume. I also incorporated a slightly bigger bed than the Positron so it's even more versatile.
 
 # Features
 - Scissor Lift integrated Z-axis, foldable design
